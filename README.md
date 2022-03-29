@@ -1,6 +1,6 @@
 # Hangperson
 
-[Demo](http://floating-falls-32939.herokuapp.com)
+[Demo](https://floating-falls-32939.herokuapp.com)
 
 ### Features
 1. The word to be guessed in each game is from http://randomword.saasbook.info/RandomWord
