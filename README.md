@@ -1,5 +1,7 @@
 # Hangperson
 
+![Demo](https://github.com/alexxuyaowen/hangperson/blob/main/Hangperson/demo.png)
+
 [Demo](https://floating-falls-32939.herokuapp.com)
 
 ### Features
